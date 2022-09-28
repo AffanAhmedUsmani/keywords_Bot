@@ -1,0 +1,6 @@
+pathlib
+tkinter
+selenium
+pandas
+bs4
+numpy
